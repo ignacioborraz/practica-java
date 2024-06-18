@@ -1,0 +1,14 @@
+
+¨
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "products".(ŠÔÀœşÿÿÿÿ8£´ä—2J$a7e1f2d8-7a2a-4c7d-9848-338607e8f198
+¢
+java:S1488,"_Immediately return this expression instead of assigning it to the temporary variable "product".(°æÕ–8¤´ä—2J$885dfc43-6041-4ee0-9b8e-59db903f4145
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8®´ä—2J$405699d3-36e7-4dfc-872c-92e0b5bc99c7
+x
+java:S1481"0Remove this unused "transaction" local variable.(ÿ¹¶Æÿÿÿÿÿ8¯´ä—2J$cbeac12e-ef1d-4dda-ab63-71100e91a97f
+r	java:S106!"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8°´ä—2J$324ea918-6df9-4d0f-9616-a6e9d5762ed3
+n
+java:S1168""+Return an empty collection instead of null.(¥¹ï8°´ä—2J$00d91ac5-372f-43e4-a047-9259fe949168
+x
+java:S1481)"0Remove this unused "transaction" local variable.(ÿ¹¶Æÿÿÿÿÿ8±´ä—2J$f867dc69-ff65-4de9-b770-b74bd3882a07
+r	java:S106/"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8²´ä—2J$2bd7797f-12e8-4459-b608-63f9acc94764

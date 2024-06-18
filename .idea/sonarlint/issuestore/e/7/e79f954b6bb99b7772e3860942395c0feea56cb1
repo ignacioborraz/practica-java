@@ -1,0 +1,14 @@
+
+{
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "clients".(ÀŞ’(8é‹­™2
+€
+java:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "client".(»êı·ùÿÿÿÿ8é‹­™2
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ò‹­™2
+R
+java:S1481"0Remove this unused "transaction" local variable.(ÿ¹¶Æÿÿÿÿÿ8ó‹­™2
+L	java:S106""+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ó‹­™2
+H
+java:S1168#"+Return an empty collection instead of null.(¥¹ï8ó‹­™2
+R
+java:S1481*"0Remove this unused "transaction" local variable.(ÿ¹¶Æÿÿÿÿÿ8ô‹­™2
+L	java:S1060"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ô‹­™2

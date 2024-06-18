@@ -1,0 +1,12 @@
+
+¯
+java:S1488:"gImmediately return this expression instead of assigning it to the temporary variable "invoicesDetails".(”ç«Îüÿÿÿÿ8„¡¢2J$a86d3209-e8dd-4aaf-8f10-58a95c502689
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Íğ±¡2J$c3d46c94-5654-4c44-8f5d-d881afb7cef3
+r	java:S1060"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8×‰š¢2J$e168d0cd-fdbf-4d0a-9eff-77883175e5fb
+x
+java:S14817"0Remove this unused "transaction" local variable.(ÿ¹¶Æÿÿÿÿÿ8Ö‰š¢2J$2d6195fb-fbb5-4214-b6b7-bfe77ac66179
+r	java:S106?"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ã½Ò¢2J$3f0cab14-34f0-4f6a-8b6f-ee99f4614d8e
+n
+java:S1168@"+Return an empty collection instead of null.(¥¹ï8Ø‰š¢2J$dbc116d3-21f4-440c-b9e3-023be49ab584
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8è¤å¢2J$a9124d21-89b9-4042-8135-b6b856fae3db
