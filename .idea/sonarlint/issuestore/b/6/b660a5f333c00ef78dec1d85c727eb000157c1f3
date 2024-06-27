@@ -1,25 +1,0 @@
-
-~
-java:S1854"<Remove this useless assignment to local variable "products".(ç§³08æŞ—¢2J$64363f93-fecd-4511-b050-7a53b469dcbe
-
-java:S1854">Remove this useless assignment to local variable "oneProduct".(•ÜĞÁ8™‚ì¢2J$85ec8f40-8477-450c-9348-5985935e183c
-z
-java:S1854"7Remove this useless assignment to local variable "all".(É¿Ï8ñç‰¢2J$4092eb40-c698-4975-9991-5b26f0407c78
-ƒ	java:S125
-"<This block of commented-out lines of code should be removed.(ÿÑÈøûÿÿÿÿ8óç‰¢2J$6d8a3cd4-8a60-424e-8806-98c8d5d4d2de
-k
-java:S1481"(Remove this unused "all" local variable.(É¿Ï8ôç‰¢2J$37704fac-bb76-4625-a9ee-a7c5980eeb0e
-}	java:S125"<This block of commented-out lines of code should be removed.(âßj8ôç‰¢2J$2f54720d-1256-46bb-89f5-32b3c8e8fcc4
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(â¢Úşÿÿÿÿ8õç‰¢2J$103c3b40-4577-40b4-8068-c5a758d8ab11
-~	java:S125"<This block of commented-out lines of code should be removed.(î—ıª8õç‰¢2J$326eefb1-83f1-4b1b-b210-81cf3ffbc727
-r
-java:S1481"/Remove this unused "oneProduct" local variable.(•ÜĞÁ8‚ì¢2J$baa69cdf-359d-4f40-a7fb-53f40e155836
-~	java:S125"<This block of commented-out lines of code should be removed.(È±“¼8õç‰¢2J$ad20caa1-dc9d-482b-95c9-d60ab7969708
-o
-java:S1481"-Remove this unused "products" local variable.(ç§³08ìŞ—¢2J$3bba881d-7fee-4414-afdd-67ef0a251f2b
-~	java:S125"<This block of commented-out lines of code should be removed.(Ì¢¯¢8öç‰¢2J$f9b6b951-02ee-4f45-ac93-422a746efa5b
-m	java:S106*"+Replace this use of System.out by a logger.(‘êÑø8àØ¤¢2J$af809952-a8af-436f-adf4-4f17c75fb094
-~	java:S125$"<This block of commented-out lines of code should be removed.(°È ™8öç‰¢2J$7eea832a-20db-4394-abdc-cdd148448dad
-m	java:S106+"+Replace this use of System.out by a logger.(›ñ–›8µ«´¢2J$59f355af-419e-4e93-b4f6-64809a74b5d8
-m	java:S106,"+Replace this use of System.out by a logger.(ŞîÏ8µ«´¢2J$7edb4f42-2f54-4e07-9d4e-f522640839f3
-X	java:S125-"<This block of commented-out lines of code should be removed.(Ü—ËÕ8ºîí¢2

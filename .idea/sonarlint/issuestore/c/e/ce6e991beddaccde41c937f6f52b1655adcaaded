@@ -1,17 +1,0 @@
-
-£
-java:S1488!"`Immediately return this expression instead of assigning it to the temporary variable "invoices".(õ†®•8¸·§•2J$5411762f-c4c8-4baf-9c10-fae6039355cf
-p
-java:S1172"-Remove this unused method parameter "client".(ğŸ–¯8ñ„Û—2J$899f5c5a-5cb8-43eb-b2ee-f009affcd823
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(•œ—¡ıÿÿÿÿ8ó„Û—2J$030f7534-6b51-45aa-a2eb-5a643c48a8a6
-r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Ä·§•2J$0210a4cd-ea83-4470-b186-06ad088a9784
-x
-java:S1481"0Remove this unused "transaction" local variable.(ÿ¹¶Æÿÿÿÿÿ8Å·§•2J$c339aa52-88cd-45f3-939d-b45657116e19
-r	java:S106$"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Æ·§•2J$728918bf-4d29-429c-9ea3-d50d6795e40f
-n
-java:S1168%"+Return an empty collection instead of null.(¥¹ï8Ç·§•2J$0de8c67b-0dd1-4e71-aed4-26cb33a673f3
-x
-java:S1481,"0Remove this unused "transaction" local variable.(ÿ¹¶Æÿÿÿÿÿ8Ç·§•2J$8a4b447c-8e15-428c-ba91-7ae132991285
-|
-java:S14810"4Remove this unused "invoicesDetails" local variable.(”ç«Îüÿÿÿÿ8×Ñôµ2J$489e37bc-9110-4834-8a5d-38adf02b6367
-r	java:S1065"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8È·§•2J$fefc7af7-6ea1-4af5-b9f6-de009ab30ef4
