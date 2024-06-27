@@ -93,4 +93,15 @@ public class PetsController {
         }
     }
 
+    @PutMapping("/{petId}/adopt/{personId}")
+    public ResponseEntity<Pet> adoptPet(@PathVariable Long petId, @PathVariable Long personId) {
+        try {
+            service.adoptPet(petId, personId);
+            return ResponseEntity.ok().build();
+        } catch  (Exception e) {
+            System.out.println(e);
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
+        }
+    }
+
 }
